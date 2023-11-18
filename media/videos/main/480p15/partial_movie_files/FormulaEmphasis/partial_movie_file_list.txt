@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Python/MainCE/media/videos/main/480p15/partial_movie_files/FormulaEmphasis/4266129954_1596930601_223132457.mp4'
+file 'file:D:/Python/MainCE/media/videos/main/480p15/partial_movie_files/FormulaEmphasis/1442284246_3613292726_3973266301.mp4'
+file 'file:D:/Python/MainCE/media/videos/main/480p15/partial_movie_files/FormulaEmphasis/1442284246_329969645_2048671416.mp4'
+file 'file:D:/Python/MainCE/media/videos/main/480p15/partial_movie_files/FormulaEmphasis/1442284246_505804498_2989743597.mp4'
+file 'file:D:/Python/MainCE/media/videos/main/480p15/partial_movie_files/FormulaEmphasis/1442284246_329969645_852550004.mp4'

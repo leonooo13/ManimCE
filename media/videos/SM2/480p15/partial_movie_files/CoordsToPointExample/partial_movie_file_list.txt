@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/CoordsToPointExample/4266129954_1439629593_223132457.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/CoordsToPointExample/1442284246_1076466279_563481421.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/CoordsToPointExample/1442284246_1076466279_593131224.mp4'

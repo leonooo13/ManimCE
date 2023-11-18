@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/AnimatedAxes/4266129954_3082338163_223132457.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/AnimatedAxes/1442284246_1076466279_3917126190.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/AnimatedAxes/1442284246_972351771_1852535596.mp4'

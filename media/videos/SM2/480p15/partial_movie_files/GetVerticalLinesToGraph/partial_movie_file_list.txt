@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/GetVerticalLinesToGraph/4266129954_1814402739_223132457.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/GetVerticalLinesToGraph/1442284246_1076466279_3998458004.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/GetVerticalLinesToGraph/1442284246_2731270194_686902544.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/GetVerticalLinesToGraph/1442284246_1076466279_809820693.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/GetVerticalLinesToGraph/1442284246_1327376711_3221511393.mp4'
+file 'file:D:/Python/MainCE/media/videos/SM2/480p15/partial_movie_files/GetVerticalLinesToGraph/1442284246_125286499_4266864385.mp4'
